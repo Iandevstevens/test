@@ -132,6 +132,12 @@ const IndexPage = () => {
       <title>Home Page</title>
       <h1 style={headingStyles}>
         <a href="https://wa.me/27600156980?text=Hello">whats app</a>
+        <a
+          href="https://sebenza.taxi/home?utm_source=undefined&utm_medium=undefined"
+          target="_blank"
+        >
+          sebenza
+        </a>
         <br />
         <span style={headingAccentStyles}>— you just made a Gatsby site! </span>
         <span role="img" aria-label="Party popper emojis">
